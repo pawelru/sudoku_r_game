@@ -1,0 +1,13 @@
+Package: sudoku
+Type: Package
+Title: Sudoku game
+Version: 0.1.0
+Author: Pawel Rucki
+Maintainer: The package maintainer <pawelrucki@gmail.com>
+Description: Possibility to play sudoku game in R!
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: magrittr, crayon, assertthat
+RoxygenNote: 6.0.1
+Suggests: testthat
